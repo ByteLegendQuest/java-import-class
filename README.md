@@ -19,8 +19,7 @@
 
 # Basic Structure of Java Program: Import Other Classes
 
-Our [`Home` class](https://github.com/ByteLegendQuest/java-import-class/blob/main/src/main/java/com/bytelegend/Home.java)
-references `Cat` class and `Dog` class, but lacks `import`s. The code can't compile now, please fix it.
+Our [`Home` class](https://github.com/ByteLegendQuest/java-import-class/blob/main/src/main/java/com/bytelegend/Home.java) references `Cat` class and `Dog` class, but lacks `import`s. The code can't compile now, please fix it.
 
 ## Challenge
 - Complete `import`s in `Home` class so that the code can compile.

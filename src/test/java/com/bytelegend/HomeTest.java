@@ -6,7 +6,7 @@ public class HomeTest {
     @Test
     public void homeHasCatAndDog() {
         Home home = new Home();
-        home.cat = new Cat();
-        home.dog = new Dog();
+        home.cat = new com.bytelegend.cat();
+        home.dog = new com.bytelegend.dog();
     }
 }

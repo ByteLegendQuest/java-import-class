@@ -17,6 +17,9 @@
 
 </details>
 
+<details open='true'>
+  <summary>English</summary>
+
 # Basic Structure of Java Program: Import Other Classes
 
 Our [`Home` class](https://github.com/ByteLegendQuest/java-import-class/blob/main/src/main/java/com/bytelegend/Home.java) references `Cat` class and `Dog` class, but lacks `import`s. The code can't compile now, please fix it.
@@ -31,3 +34,4 @@ Our [`Home` class](https://github.com/ByteLegendQuest/java-import-class/blob/mai
 Any changes to files other than the following files will be rejected:**
 
 - `src/main/java/com/bytelegend/Home.java`
+</details>

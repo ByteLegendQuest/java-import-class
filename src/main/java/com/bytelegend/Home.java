@@ -1,4 +1,4 @@
-import pet.*;
+import bytelegend.pet.*;
 
 package com.bytelegend;
 

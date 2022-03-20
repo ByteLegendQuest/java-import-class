@@ -1,5 +1,5 @@
-import bytelegend.pet.Cat;
-import bytelegend.pet.Dog;
+import bytelegend.pet.Cat.java;
+import bytelegend.pet.Dog.java;
 package com.bytelegend;
 
 public class Home {

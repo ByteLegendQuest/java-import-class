@@ -1,6 +1,5 @@
 package com.bytelegend;
-import pet.cat;
-import pet.dog;
+import java.io.*;
 
 public class Home {
     public Cat cat;

@@ -1,6 +1,6 @@
 package com.bytelegend;
 
-import java.util.Home;
+import Home;
 
 public class Home {
     public Cat cat;

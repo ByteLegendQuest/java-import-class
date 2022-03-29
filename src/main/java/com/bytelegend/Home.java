@@ -1,5 +1,6 @@
 package com.bytelegend;
-package pet.*;
+package pet.Cat;
+package pet.Dog;
 
 public class Home {
     public Cat cat;

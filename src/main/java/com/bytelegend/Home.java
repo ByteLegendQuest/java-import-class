@@ -1,5 +1,5 @@
-import Cat.Cat;
-import Dog.Dog;
+import Cat;
+import Dog
 
 
 package com.bytelegend;

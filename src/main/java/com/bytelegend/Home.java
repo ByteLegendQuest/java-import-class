@@ -1,4 +1,6 @@
-package com.bytelegend，com.bytelegend.pet.cat,com.bytelegend.pet.dog;
+package com.bytelegend;
+import com.bytelegend.pet.Cat;
+import com.bytelegend.pet.Dog;
 
 public class Home {
     public Cat cat;

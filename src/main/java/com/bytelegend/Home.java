@@ -1,5 +1,5 @@
 package com.bytelegend;
-import packagecom.bytelegend.Home;
+import java.util.Home;
 public class Home {
     public Cat cat;
     public Dog dog;

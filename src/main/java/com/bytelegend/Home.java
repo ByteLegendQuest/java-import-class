@@ -1,4 +1,4 @@
-package com.bytelegend;
+import package com.bytelegend;
 
 public class Home {
     public Cat cat;

@@ -1,7 +1,7 @@
 package com.bytelegend;
 
-import com.bytelegend.pet.Cat.java;
-import com.bytelegend.pet.Dog.java;
+import com.bytelegend.pet.Cat;
+import com.bytelegend.pet.Dog;
 
 public class Home {
     public Cat cat;

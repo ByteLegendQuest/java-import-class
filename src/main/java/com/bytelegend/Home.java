@@ -1,6 +1,13 @@
 package com.bytelegend;
 
-public class Home {
-    public Cat cat;
-    public Dog dog;
+import org.junit.jupiter.api.Test;
+
+public class HomeTest {
+    @Test
+    public void homeHasCatAndDog() {
+        Home home;
+        home = new Home();
+        home.cat = new com.bytelegend.pet.Cat();
+        home.dog = new com.bytelegend.pet.Dog();
+    }
 }

@@ -1,7 +1,6 @@
 package com.bytelegend;
 
 import pet;
-import org.junit.jupiter.api.Test;
 
 public class HomeTest {
     @Test

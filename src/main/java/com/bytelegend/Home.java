@@ -1,7 +1,7 @@
 package com.bytelegend;
 
-import com.bytelegend.pet.Dog;
-import com.bytelegend.pet.Cat;
+import bytelegend.pet.Dog();
+import bytelegend.pet.Cat();
 
 public class HomeTest {
     @Test

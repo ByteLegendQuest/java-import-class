@@ -1,6 +1,13 @@
 package com.bytelegend;
-import pet;
-public class Home {
-    public Cat cat;
-    public Dog dog;
+
+import pet,Dog;
+import pet,Cat;
+
+public class HomeTest {
+    @Test
+    public void homeHasCatAndDog() {
+        Home home = new Home();
+        home.cat = new com.bytelegend.pet.Cat();
+        home.dog = new com.bytelegend.pet.Dog();
+    }
 }

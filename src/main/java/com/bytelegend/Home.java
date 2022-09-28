@@ -1,6 +1,6 @@
 package com.bytelegend;
 
-import org.junit.jupiter.api.Test ;
+import com.bytelegend.Home;
 
 public class Home {
     public Cat cat;

@@ -1,6 +1,6 @@
 package com.bytelegend;
 
-import com.bytelegend;
+import ;
 
 public class Home {
     public Cat cat;

@@ -1,4 +1,5 @@
 package com.bytelegend;
+package com.bytelegend.pet.*;
 
 public class Home {
     public Cat cat;

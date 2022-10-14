@@ -1,6 +1,6 @@
 package com.bytelegend;
 
-import Cat,Dog;
+import com.bytelegend.pet.*;
 
 public class Home {
     public Cat cat;

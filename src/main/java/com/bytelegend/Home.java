@@ -4,4 +4,7 @@ import com.bytelegend.pet.Dog;
 public class Home {
     public Cat cat;
     public Dog dog;
+    public static void main(String[] args) {
+                                        
+    }                                       
 }

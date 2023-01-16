@@ -1,6 +1,6 @@
 package com.bytelegend;
-improt public Cat
-       public Dog
+improt Cat
+       Dog
 
 public class Home {
     public Cat cat;

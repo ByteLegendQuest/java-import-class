@@ -1,6 +1,6 @@
 package com.bytelegend;
 
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api;
 
 
 public class Home {
